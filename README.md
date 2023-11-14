@@ -1,1 +1,1 @@
-# rsschool-cv
+https://alaverdin.github.io/rsschool-cv/cv
